@@ -10,7 +10,7 @@ Yuva Raj
 Welcome to my profile! I am a sport man or B.E (CSE) student for Mailam
 Engineering College College in Mailam, Tamil Nadu .
 
-::: {.contact}
+
 ### Contact Me
 
 Email:
